@@ -1,3 +1,1 @@
 # Funções
-
-inicio
